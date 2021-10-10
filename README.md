@@ -21,7 +21,7 @@ This is a tindog project which I created with HTML and styled with CSS
 The aim of this project was to create a clone of a website to showcase my knowledge of HTML, CSS and Bootstrap
 
 ## Screenshot
-![Sample image](https://github.com/wemiibidun/my_resume/blob/master/resume_screenshot.png)
+![Sample image](https://github.com/wemiibidun/tin_dog_project/blob/master/tin_dog.png)
 
 
 ## Lessons Learnt
