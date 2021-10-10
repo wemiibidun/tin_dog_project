@@ -23,11 +23,9 @@ The aim of this project was to create a clone of a website to showcase my knowle
 ## Screenshot
 ![Sample image](https://github.com/wemiibidun/tin_dog_project/blob/master/tin_dog.png)
 
-
 ## Lessons Learnt
 
 - In this project, I learnt more about HTML 5, CSS3 and particularly bootstrap
-
 
 ## My Take Home
 
@@ -37,7 +35,6 @@ The aim of this project was to create a clone of a website to showcase my knowle
 ## Link to Published Resume
 
 [tin_dog_webpage](https://wemiibidun.github.io/tin_dog_project/)
-
 
 ## Status
 Project is: _Complete_
