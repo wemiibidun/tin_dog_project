@@ -12,7 +12,7 @@ This is a tindog project which I created with HTML and styled with CSS
 * [Screenshot](#screenshot)
 * [Lessons Learnt](#lessons-learnt)
 * [Take Home](#my-take-home)
-* [Link to Published Resume](#link-to-published-portfolio)
+* [Link to Published Resume](#link-to-published-resume)
 * [Status](#status)
 * [Contact](#contact)
 
