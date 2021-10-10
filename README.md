@@ -10,7 +10,7 @@ This is a tindog project which I created with HTML and styled with CSS
 ## Table of contents
 * [Project Aim](#project-aim)
 * [Screenshot](#screenshot)
-* [Lessons Learnt](#technologies-language-library-and-framework)
+* [Lessons Learnt](#lessons-learnt)
 * [Take Home](#features)
 * [Link to Published Resume](#link-to-published-portfolio)
 * [Status](#status)
