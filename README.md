@@ -20,12 +20,14 @@ This is a tindog project which I created with HTML and styled with CSS
 ## Project Aim
 The aim of this project was to design a one page website for connecting with dogs and dog owners around a specific location. This is a front end project.
 
+
 ## Screenshot
 ![Sample image](https://github.com/wemiibidun/tin_dog_project/blob/master/tin_dog.png)
 
-## Lessons Learnt
 
+## Lessons Learnt
 - In this project, I learnt more about HTML 5, CSS3 and particularly bootstrap
+
 
 ## My Take Home
 
