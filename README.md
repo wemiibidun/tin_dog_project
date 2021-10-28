@@ -1,4 +1,3 @@
-
 ![GitLab Code Size](https://img.shields.io/github/languages/code-size/wemiibidun/tin_dog_project)
 ![GitLab Languages](https://img.shields.io/github/languages/count/wemiibidun/tin_dog_project)
 
